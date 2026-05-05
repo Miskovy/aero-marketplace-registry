@@ -1,0 +1,12 @@
+{
+  "version": "1.0",
+  "templates": [
+    {
+      "id": "postgresql",
+      "name": "PostgreSQL",
+      "description": "Production-ready PostgreSQL 15 database.",
+      "categories": ["database"],
+      "compose_url": "https://raw.githubusercontent.com/Miskovy/aero-marketplace-registry/main/templates/postgresql.yml"
+    }
+  ]
+}
